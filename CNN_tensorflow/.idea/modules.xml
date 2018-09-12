@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CNN_tensorflow.iml" filepath="$PROJECT_DIR$/.idea/CNN_tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FirstTensorflow/.idea/FirstTensorflow.iml" filepath="$PROJECT_DIR$/../FirstTensorflow/.idea/FirstTensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NN_tensorflow/.idea/NN_tensorflow.iml" filepath="$PROJECT_DIR$/../NN_tensorflow/.idea/NN_tensorflow.iml" />
+    </modules>
+  </component>
+</project>
