@@ -1,0 +1,1 @@
+python D:\PycharmProjects\NeuralTransform\neural_style.py --content D:\PycharmProjects\NeuralTransform\content.jpg --styles D:\PycharmProjects\NeuralTransform\1_style.jpg --output D:\PycharmProjects\NeuralTransform\output_1.jpg --iterations 500 --overwrite
